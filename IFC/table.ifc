@@ -4,23 +4,23 @@ HEADER;
 /******************************************************************************************
 * STEP Physical File produced by: The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013
 * Module:                         EDMstepFileFactory/EDMstandAlone
-* Creation date:                  Thu Dec 22 12:17:55 2022
+* Creation date:                  Thu Dec 22 12:28:49 2022
 * Host:                           INJFC161149
-* Database:                       C:\Users\bbalaji\AppData\Local\Temp\767131be-d879-451f-a3b8-17dab30bad5d\94dcfba4-5f36-46d9-aef0-2c080804bcdb\ifc
+* Database:                       C:\Users\bbalaji\AppData\Local\Temp\767131be-d879-451f-a3b8-17dab30bad5d\397b7d5a-ef4b-420d-b7aa-cb8cc5fb1c67\ifc
 * Database version:               5507
-* Database creation date:         Thu Dec 22 12:17:45 2022
+* Database creation date:         Thu Dec 22 12:28:47 2022
 * Schema:                         IFC2X3
 * Model:                          DataRepository.ifc
-* Model creation date:            Thu Dec 22 12:17:46 2022
+* Model creation date:            Thu Dec 22 12:28:48 2022
 * Header model:                   DataRepository.ifc_HeaderModel
-* Header model creation date:     Thu Dec 22 12:17:46 2022
+* Header model creation date:     Thu Dec 22 12:28:48 2022
 * EDMuser:                        sdai-user
 * EDMgroup:                       sdai-group
 * License ID and type:            5605 : Permanent license. Expiry date: 
 * EDMstepFileFactory options:     020000
 ******************************************************************************************/
 FILE_DESCRIPTION(('ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]'),'2;1');
-FILE_NAME('0001','2022-12-22T12:17:55',(''),(''),'The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013','20210420_1515(x64) - Exporter 20.2.40.65 - Alternate UI 20.2.40.65','');
+FILE_NAME('0001','2022-12-22T12:28:49',(''),(''),'The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013','20210420_1515(x64) - Exporter 20.2.40.65 - Alternate UI 20.2.40.65','');
 FILE_SCHEMA(('IFC2X3'));
 ENDSEC;
 
@@ -102,29 +102,29 @@ DATA;
 #115= IFCBUILDING('0lu4nvP7P9rg6zByeGqubp',#41,'',$,$,#32,$,'',.ELEMENT.,$,$,$);
 #121= IFCCARTESIANPOINT((0.,0.,-4600.));
 #123= IFCAXIS2PLACEMENT3D(#121,$,$);
-#614= IFCRELDEFINESBYPROPERTIES('3wEMIIfPP51xnD6LEjbyv2',#41,$,$,(#148),#548);
-#479= IFCRELDEFINESBYPROPERTIES('1X2OGEBb91wOnL0CHi_i_v',#41,$,$,(#456),#477);
+#614= IFCRELDEFINESBYPROPERTIES('3QFdjoQZX0zgDggZBiwAcu',#41,$,$,(#148),#548);
+#479= IFCRELDEFINESBYPROPERTIES('0H9XrCwB53jBoC0dpUNz99',#41,$,$,(#456),#477);
 #128= IFCCARTESIANPOINT((0.,0.,-4300.));
 #130= IFCAXIS2PLACEMENT3D(#128,$,$);
-#611= IFCRELDEFINESBYPROPERTIES('3VwFgoQeT0pBdtmr1Bj9LC',#41,$,$,(#148),#546);
-#477= IFCPROPERTYSET('3nNivSpTr3iudLGo3u8Zu$',#41,'Other',$,(#464,#465,#466,#467,#468,#469,#470));
+#611= IFCRELDEFINESBYPROPERTIES('0qAMBLppn6SOcERtHDV4mI',#41,$,$,(#148),#546);
+#477= IFCPROPERTYSET('0Hx_2jAfv1ywBKYzXwAplk',#41,'Other',$,(#464,#465,#466,#467,#468,#469,#470));
 #134= IFCCARTESIANPOINT((0.,0.,-4000.));
 #136= IFCAXIS2PLACEMENT3D(#134,$,$);
-#608= IFCRELDEFINESBYPROPERTIES('3$Q7Qjz356Jg3CpIOBnlRo',#41,$,$,(#148),#544);
+#608= IFCRELDEFINESBYPROPERTIES('1MZdFyOeL3rP3O7PHfNjul',#41,$,$,(#148),#544);
 #473= IFCRELDEFINESBYPROPERTIES('0bEVwXRmbBleAvy$KJirAn',#41,$,$,(#456),#471);
 #140= IFCCARTESIANPOINT((0.,0.,-300.));
 #142= IFCAXIS2PLACEMENT3D(#140,$,$);
-#605= IFCRELDEFINESBYPROPERTIES('0oOl0Upw15bujummuvkClx',#41,$,$,(#148),#542);
+#605= IFCRELDEFINESBYPROPERTIES('3yRM8FDwz8KOlBlLW7x$qu',#41,$,$,(#148),#542);
 #471= IFCPROPERTYSET('0bEVwXRmbBleAvylKJirAn',#41,'Identity Data',$,(#460,#461,#462,#463));
 #146= IFCAXIS2PLACEMENT3D(#6,$,$);
 #147= IFCLOCALPLACEMENT(#32,#146);
 #148= IFCBUILDINGSTOREY('0lu4nvP7P9rg6zByhlB7VX',#41,'Level 1',$,'Level:8mm Head',#147,$,'Level 1',.ELEMENT.,0.);
 #150= IFCCARTESIANPOINT((0.,0.,4000.));
 #152= IFCAXIS2PLACEMENT3D(#150,$,$);
-#602= IFCRELDEFINESBYTYPE('0s1cc4wAr9chmedLQGlaPk',#41,$,$,(#345),#301);
+#602= IFCRELDEFINESBYTYPE('2nPMlBLUHBmxs9N8rICQZP',#41,$,$,(#345),#301);
 #550= IFCRELCONTAINEDINSPATIALSTRUCTURE('3Aw$FV5MbAufEo59tkoNgA',#41,$,$,(#345),#148);
 #156= IFCAXIS2PLACEMENT3D(#296,$,$);
-#599= IFCRELASSOCIATESMATERIAL('24aF9WSvn679n7$8Ako_fn',#41,$,$,(#345),#354);
+#599= IFCRELASSOCIATESMATERIAL('3RiIFIf3H8wvfRmQDRowmq',#41,$,$,(#345),#354);
 #158= IFCCARTESIANPOINT((254.200000000008,-254.2));
 #160= IFCAXIS2PLACEMENT2D(#158,#23);
 #161= IFCCIRCLE(#160,50.8000000000001);
@@ -230,11 +230,11 @@ DATA;
 #345= IFCFURNISHINGELEMENT('1aHyaRxW9E3OaGWMkPhA9P',#41,'RAC_basic_sample_family:0610 x 0160mm:296534',$,'RAC_basic_sample_family:0610 x 0160mm',#343,#336,'296534');
 #354= IFCMATERIALLIST((#304,#317));
 #356= IFCPROPERTYSINGLEVALUE('Category',$,IFCLABEL('Furniture'),$);
-#357= IFCPROPERTYSET('1SWef0q5fCkgSX_1AlRMr_',#41,'Pset_ProductRequirements',$,(#356));
+#357= IFCPROPERTYSET('26WM13knjCOQpnGqHaw3oH',#41,'Pset_ProductRequirements',$,(#356));
 #362= IFCPROPERTYSINGLEVALUE('Reference',$,IFCIDENTIFIER('0610 x 0160mm'),$);
-#363= IFCPROPERTYSET('2Iiq5tU2DBIR2ckPaXKdCH',#41,'Pset_QuantityTakeOff',$,(#362));
-#365= IFCRELDEFINESBYPROPERTIES('3_S_GapUj3ngu$XgHQ$pGl',#41,$,$,(#345),#357);
-#369= IFCRELDEFINESBYPROPERTIES('1N2S7Al_zB5xalOvkoqli0',#41,$,$,(#345),#363);
+#363= IFCPROPERTYSET('1OGSR7o8vFwPgAMpoLMT$V',#41,'Pset_QuantityTakeOff',$,(#362));
+#365= IFCRELDEFINESBYPROPERTIES('1c5HArGH92b91OQbQRG3Lp',#41,$,$,(#345),#357);
+#369= IFCRELDEFINESBYPROPERTIES('1XqhspU$zAPgn48KIGHDp$',#41,$,$,(#345),#363);
 #372= IFCPROPERTYSINGLEVALUE('Elevation from Level',$,IFCLENGTHMEASURE(0.),$);
 #373= IFCPROPERTYSINGLEVALUE('Host',$,IFCTEXT('Level : Level 1'),$);
 #374= IFCPROPERTYSINGLEVALUE('Level',$,IFCLABEL('Level: Level 1'),$);
@@ -242,9 +242,9 @@ DATA;
 #376= IFCPROPERTYSINGLEVALUE('Phase Created',$,IFCLABEL('Phase 1'),$);
 #377= IFCPROPERTYSINGLEVALUE('Area',$,IFCAREAMEASURE(0.806083136495835),$);
 #378= IFCPROPERTYSINGLEVALUE('Volume',$,IFCVOLUMEMEASURE(0.0406886057341273),$);
-#379= IFCPROPERTYSINGLEVALUE('URL_AndroidFilePath',$,IFCTEXT('raw.githubusercontent.com/mailatbalajiwork/notion/main/IFC/table.ifc'),$);
-#380= IFCPROPERTYSINGLEVALUE('URL_AppTrigger',$,IFCTEXT('twitter://'),$);
-#381= IFCPROPERTYSINGLEVALUE('URL_Facebook',$,IFCTEXT('fb.me/balajibalagurumangai'),$);
+#379= IFCPROPERTYSINGLEVALUE('URL_AndroidFilePath',$,IFCTEXT('https://raw.githubusercontent.com/mailatbalajiwork/notion/main/IFC/table.ifc'),$);
+#380= IFCPROPERTYSINGLEVALUE('URL_AppTrigger',$,IFCTEXT('twitter://@balajibbi'),$);
+#381= IFCPROPERTYSINGLEVALUE('URL_Facebook',$,IFCTEXT('https://fb.me/balajibalagurumangai'),$);
 #382= IFCPROPERTYSINGLEVALUE('URL_FilePath',$,IFCTEXT('file:///C:\\'),$);
 #383= IFCPROPERTYSINGLEVALUE('URL_FolerPath',$,IFCTEXT('file:///C:\\'),$);
 #384= IFCPROPERTYSINGLEVALUE('URL_Geo',$,IFCTEXT('geo:2.965489,80.1986989'),$);
@@ -252,9 +252,9 @@ DATA;
 #386= IFCPROPERTYSINGLEVALUE('URL_Mail',$,IFCTEXT('mailto:mail@balaji.work'),$);
 #387= IFCPROPERTYSINGLEVALUE('URL_Phone',$,IFCTEXT('tel:+918870544018'),$);
 #388= IFCPROPERTYSINGLEVALUE('URL_Twitter',$,IFCTEXT('https://twitter.com/balajibim'),$);
-#389= IFCPROPERTYSINGLEVALUE('URL_WebFileLink',$,IFCTEXT('raw.githubusercontent.com/mailatbalajiwork/notion/main/IFC/table.ifc'),$);
-#390= IFCPROPERTYSINGLEVALUE('URL_Website',$,IFCTEXT('www.balaji.work'),$);
-#391= IFCPROPERTYSINGLEVALUE('URL_WhatsApp',$,IFCTEXT('wa.me/+918870544018'),$);
+#389= IFCPROPERTYSINGLEVALUE('URL_WebFileLink',$,IFCTEXT('https://raw.githubusercontent.com/mailatbalajiwork/notion/main/IFC/table.ifc'),$);
+#390= IFCPROPERTYSINGLEVALUE('URL_Website',$,IFCTEXT('https://www.balaji.work'),$);
+#391= IFCPROPERTYSINGLEVALUE('URL_WhatsApp',$,IFCTEXT('https://wa.me/+918870544018'),$);
 #392= IFCPROPERTYSINGLEVALUE('URL_YouTube',$,IFCTEXT('https://www.youtube.com/@balajibbi'),$);
 #393= IFCPROPERTYSINGLEVALUE('Category',$,IFCLABEL('Furniture'),$);
 #394= IFCPROPERTYSINGLEVALUE('Family',$,IFCLABEL('RAC_basic_sample_family: 0610 x 0160mm'),$);
@@ -280,15 +280,15 @@ DATA;
 #418= IFCRELDEFINESBYPROPERTIES('1aHyaRxW9E3OaGXccPhA9P',#41,$,$,(#345),#416);
 #421= IFCPROPERTYSET('1aHyaRxW9E3OaGXsgPhA9P',#41,'Identity Data',$,(#379,#380,#381,#382,#383,#384,#385,#386,#387,#388,#389,#390,#391,#392));
 #423= IFCRELDEFINESBYPROPERTIES('1aHyaRxW9E3OaGXcgPhA9P',#41,$,$,(#345),#421);
-#426= IFCPROPERTYSET('2tXfZNhzH9AwivRIyw27Zf',#41,'Other',$,(#393,#394,#395,#396,#397));
-#428= IFCRELDEFINESBYPROPERTIES('1BMa1zYyj1sgaP9UDBlnCd',#41,$,$,(#345),#426);
+#426= IFCPROPERTYSET('1dFDhcQTX2Eezth4nMeSAI',#41,'Other',$,(#393,#394,#395,#396,#397));
+#428= IFCRELDEFINESBYPROPERTIES('1HQKNeBwzCnPillJNfECvW',#41,$,$,(#345),#426);
 #431= IFCPROPERTYSET('1aHyaRxW9E3OaGXsIPhA9P',#41,'Phasing',$,(#376));
 #433= IFCRELDEFINESBYPROPERTIES('1aHyaRxW9E3OaGXcIPhA9P',#41,$,$,(#345),#431);
 #436= IFCPROPERTYSET('1aHyaRxW9E3OaGXt_PhA9D',#41,'Constraints',$,(#398));
 #438= IFCPROPERTYSET('1aHyaRxW9E3OaGXscPhA9D',#41,'Dimensions',$,(#401,#402,#403));
 #440= IFCPROPERTYSET('1aHyaRxW9E3OaGXsgPhA9D',#41,'Identity Data',$,(#404,#405,#406,#407,#408,#409));
 #442= IFCPROPERTYSET('1aHyaRxW9E3OaGXssPhA9D',#41,'Materials and Finishes',$,(#399,#400));
-#444= IFCPROPERTYSET('2NAdWhe3r4ZAWyXHFrWljq',#41,'Other',$,(#393,#410));
+#444= IFCPROPERTYSET('3LcHggcnv8qOly6IaIIHuy',#41,'Other',$,(#393,#410));
 #452= IFCAXIS2PLACEMENT3D(#6,$,$);
 #453= IFCLOCALPLACEMENT($,#452);
 #454= IFCPOSTALADDRESS($,$,$,$,('Enter address here'),$,'','Boston','','MA');
@@ -305,15 +305,15 @@ DATA;
 #469= IFCPROPERTYSINGLEVALUE('Project Number',$,IFCTEXT('0001'),$);
 #470= IFCPROPERTYSINGLEVALUE('Project Status',$,IFCTEXT('Project Status'),$);
 #483= IFCPROPERTYSINGLEVALUE('Name',$,IFCLABEL('Level 1'),$);
-#484= IFCPROPERTYSET('0uV_XDOpH1wvMITamzrLLC',#41,'Pset_AirSideSystemInformation',$,(#483));
+#484= IFCPROPERTYSET('0XCvm6CxLFR9106W0ibsfc',#41,'Pset_AirSideSystemInformation',$,(#483));
 #486= IFCPROPERTYSINGLEVALUE('AboveGround',$,IFCLOGICAL(.U.),$);
 #487= IFCPROPERTYSET('3Aw$FV5MbAufEo7t3koNgA',#41,'Pset_BuildingStoreyCommon',$,(#486));
 #489= IFCPROPERTYSINGLEVALUE('Name',$,IFCLABEL('Level 1'),$);
 #490= IFCPROPERTYSINGLEVALUE('Category',$,IFCLABEL('Levels'),$);
-#491= IFCPROPERTYSET('0jSWrFI29EFfvKgT2VedgG',#41,'Pset_ProductRequirements',$,(#489,#490));
-#493= IFCRELDEFINESBYPROPERTIES('2KUd4yYfD1KRh0mDDkvQu5',#41,$,$,(#148),#484);
-#497= IFCRELDEFINESBYPROPERTIES('0NTCpRQ6TFqhPHl05sQ8ca',#41,$,$,(#148),#487);
-#500= IFCRELDEFINESBYPROPERTIES('0wEvp5ArP97Q_acfFPlaIi',#41,$,$,(#148),#491);
+#491= IFCPROPERTYSET('2D7HZ78s58FwLaG4DJXYKy',#41,'Pset_ProductRequirements',$,(#489,#490));
+#493= IFCRELDEFINESBYPROPERTIES('3JnD6eCRD8nAQeSHqTWlSA',#41,$,$,(#148),#484);
+#497= IFCRELDEFINESBYPROPERTIES('1tHpsztwH8RAW$mYtuOVyP',#41,$,$,(#148),#487);
+#500= IFCRELDEFINESBYPROPERTIES('3131z9_Jb1LOZzT5ylYmJx',#41,$,$,(#148),#491);
 #503= IFCPROPERTYSINGLEVALUE('Elevation',$,IFCLENGTHMEASURE(0.),$);
 #504= IFCPROPERTYSINGLEVALUE('Computation Height',$,IFCLENGTHMEASURE(0.),$);
 #505= IFCPROPERTYSINGLEVALUE('Building Story',$,IFCBOOLEAN(.T.),$);
@@ -339,33 +339,33 @@ DATA;
 #529= IFCRELDEFINESBYPROPERTIES('3Aw$FV5MbAufEo4vxkoNgA',#41,$,$,(#148),#527);
 #532= IFCPROPERTYSET('3Aw$FV5MbAufEo4ftkoNgA',#41,'Identity Data',$,(#505,#506,#507));
 #534= IFCRELDEFINESBYPROPERTIES('3Aw$FV5MbAufEo4vtkoNgA',#41,$,$,(#148),#532);
-#537= IFCPROPERTYSET('3oCxYrIdL3mh3o7G3NApbO',#41,'Other',$,(#508,#509,#510,#511,#512));
-#539= IFCRELDEFINESBYPROPERTIES('1nUVDlnnPCmfg$rfJV08Qg',#41,$,$,(#148),#537);
+#537= IFCPROPERTYSET('0Qpbqiklv0Phh4us8_ObTz',#41,'Other',$,(#508,#509,#510,#511,#512));
+#539= IFCRELDEFINESBYPROPERTIES('1WU3D0zK14yP4zkq9DSxxe',#41,$,$,(#148),#537);
 #542= IFCPROPERTYSET('3Aw$FV5MbAufEo4eZkoNgq',#41,'Constraints(Type)',$,(#513));
 #544= IFCPROPERTYSET('3Aw$FV5MbAufEo4fdkoNgq',#41,'Graphics(Type)',$,(#514,#515,#516,#517,#518,#519));
 #546= IFCPROPERTYSET('3Aw$FV5MbAufEo4ftkoNgq',#41,'Identity Data(Type)',$,(#520));
-#548= IFCPROPERTYSET('0nMii0DKP0ERFKbPC5o_4_',#41,'Other(Type)',$,(#508,#521));
-#554= IFCRELAGGREGATES('3l3G47$H9B8gusa9ksYUMK',#41,$,$,#105,(#456));
-#558= IFCRELAGGREGATES('0NqIHkuGXBgvpsFK76ycmV',#41,$,$,#456,(#115));
+#548= IFCPROPERTYSET('3Vi$EjMbv0eBZYCamc5i5P',#41,'Other(Type)',$,(#508,#521));
+#554= IFCRELAGGREGATES('2TUys2$11EKPTLYBKunMFW',#41,$,$,#105,(#456));
+#558= IFCRELAGGREGATES('16RMQAhzDE5B5BWhEnFFEf',#41,$,$,#456,(#115));
 #562= IFCRELAGGREGATES('0bEVwXRmbBleAvzFSJirAn',#41,$,$,#115,(#148));
 #566= IFCPROPERTYSINGLEVALUE('NumberOfStoreys',$,IFCINTEGER(1),$);
 #567= IFCPROPERTYSINGLEVALUE('IsLandmarked',$,IFCLOGICAL(.U.),$);
 #568= IFCPROPERTYSET('0bEVwXRmbBleAv$nyJirAn',#41,'Pset_BuildingCommon',$,(#566,#567));
 #570= IFCPROPERTYSINGLEVALUE('Category',$,IFCLABEL('Project Information'),$);
-#571= IFCPROPERTYSET('00lKP6_tf2pha0n1UvUHAk',#41,'Pset_ProductRequirements',$,(#570));
-#573= IFCRELDEFINESBYPROPERTIES('1oWBEUlAbAeuWL7a1UO$34',#41,$,$,(#115),#568);
-#577= IFCRELDEFINESBYPROPERTIES('32rKcfUED5n8PQk5tkc6F0',#41,$,$,(#115),#571);
+#571= IFCPROPERTYSET('2jIpEKPyLC4QTibv4kVXrn',#41,'Pset_ProductRequirements',$,(#570));
+#573= IFCRELDEFINESBYPROPERTIES('0KrxkFCLTEuwxli6lh79uw',#41,$,$,(#115),#568);
+#577= IFCRELDEFINESBYPROPERTIES('09VXc4e5XDDe8Mwf_RU2TM',#41,$,$,(#115),#571);
 #580= IFCPROPERTYSINGLEVALUE('Client Name',$,IFCTEXT('Owner'),$);
 #581= IFCPROPERTYSINGLEVALUE('Project Address',$,IFCTEXT('Enter address here'),$);
 #582= IFCPROPERTYSINGLEVALUE('Project Issue Date',$,IFCTEXT('Issue Date'),$);
 #583= IFCPROPERTYSINGLEVALUE('Project Name',$,IFCTEXT('Project Name'),$);
 #584= IFCPROPERTYSINGLEVALUE('Project Number',$,IFCTEXT('0001'),$);
 #585= IFCPROPERTYSINGLEVALUE('Project Status',$,IFCTEXT('Project Status'),$);
-#586= IFCPROPERTYSET('2MWW60nRn3DuXFsPF7rfN7',#41,'Identity Data',$,(#460,#461,#462,#463));
-#588= IFCRELDEFINESBYPROPERTIES('3jpxXir_z699mpcEu4XUcU',#41,$,$,(#115),#586);
-#591= IFCPROPERTYSET('2aGvf5rg54$ARm$nURoVaW',#41,'Other',$,(#464,#580,#581,#582,#583,#584,#585));
-#593= IFCRELDEFINESBYPROPERTIES('1hCMx7i1z5rvJCDsoyOHCn',#41,$,$,(#115),#591);
-#596= IFCRELASSOCIATESMATERIAL('0B4BxkhhfFRPod4RLC7xb0',#41,$,$,(#301),#327);
+#586= IFCPROPERTYSET('2yJHr31Mn45Q13i51Ss1DA',#41,'Identity Data',$,(#460,#461,#462,#463));
+#588= IFCRELDEFINESBYPROPERTIES('0PWiarJ1nFIxKon_uQTVuE',#41,$,$,(#115),#586);
+#591= IFCPROPERTYSET('0nFsGwiwfBowyFLucsaeS7',#41,'Other',$,(#464,#580,#581,#582,#583,#584,#585));
+#593= IFCRELDEFINESBYPROPERTIES('1558SXq3XDbgHjyjJojcJq',#41,$,$,(#115),#591);
+#596= IFCRELASSOCIATESMATERIAL('2EHXofn1f67BH8JQ_JawFy',#41,$,$,(#301),#327);
 #617= IFCPRESENTATIONLAYERASSIGNMENT('I-FURN-____-OTLN',$,(#293,#334),$);
 ENDSEC;
 
